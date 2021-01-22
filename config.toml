@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = ""
+author = "Steel Wagstaff"
+copyright = "All original content released under a CC-BY 4.0 license unless otherwise noted."
+description = "Steel Wagstaff"
+email = "steelwagstaff@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "6082161296"
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -51,14 +51,8 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
+URL = "https://www.linkedin.com/in/steel-wagstaff/"
+icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/steelwagstaff"
 icon = "ti-twitter-alt"
