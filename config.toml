@@ -27,7 +27,7 @@ description = "Steel Wagstaff"
 email = "steelwagstaff@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = ""
 phone = "6082161296"
 theme_color = "#41228e"
 [params.contact]
