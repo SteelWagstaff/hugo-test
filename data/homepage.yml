@@ -3,13 +3,13 @@ banner:
   title: Hi! I’m <br> Steel Wagstaff!
 about:
   enable: true
-  content: "<strong>What I do:</strong> I'm the educational product manager for Pressbooks,
-    a small Canadian startup which makes open source book publishing software. I live
-    in Eugene, Oregon (the traditional indigenous homeland of the Kalapuya people
-    and a part of the Cascadia bioregion)."
+  content: I'm the educational product manager for Pressbooks, a small Canadian startup
+    which makes open source book publishing software. I live in Eugene, Oregon (the
+    traditional indigenous homeland of the Kalapuya people and a part of the Cascadia
+    bioregion).
   button:
     enable: true
-    label: learn more
+    label: learn more about me
     URL: about
 skill:
   enable: true
