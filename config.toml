@@ -29,7 +29,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = ""
 phone = "6082161296"
-theme_color = "#41228e"
+theme_color = "#022901"
 [params.contact]
 enable = true
 form_action = "#"
