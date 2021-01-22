@@ -50,7 +50,7 @@ education:
   - title: Ph.D. in English (Literary Studies, Creative Writing Minor)
     year: "2018"
     academy: University of Wisconsin-Madison
-  - title: M.A. in Library and Information Studise
+  - title: M.A. in Library and Information Studies
     year: "2010"
     academy: University of Wisconsin-Madison
   - title: M.A. in English (Literary Studies)
@@ -60,7 +60,7 @@ education:
     year: "2006"
     academy: Brigham Young University
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -83,7 +83,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -135,4 +135,4 @@ clients_logo_slider:
     URL: "#"
 blog:
   enable: true
-  title: Blogs
+  title: Recent Writing
