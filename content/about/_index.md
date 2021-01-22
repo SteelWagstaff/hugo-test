@@ -1,13 +1,17 @@
 ---
-title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: About
+date: 2019-05-12T12:14:34.000+06:00
+description: This is meta description.
+author_image: images/about/author.jpg
+author_signature: images/about/signature.png
+
 ---
+# Welcome!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+![Steel Wagstaff](/images/steel_headshot.jpg "Steel Wagstaff")
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+**What I do:** I'm the educational product manager for [Pressbooks](https://pressbooks.com), a small Canadian startup which makes [open source book publishing software](https://pressbooks.org). I live in Eugene, Oregon (the traditional indigenous homeland of the Kalapuya people and a part of the Cascadia bioregion).
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+**What I've done:** I've spent much of my adulthood teaching or supporting others who teach at universities. I earned a Ph.D. in English and a master's degree in Library and Information Studies from the University of Wisconsin-Madison. I've worked outside the academy as a land surveyor, prison educator, and mentor/tutor for elementary school-aged kids.
+
+**What I love:** Being a father and partner and friend. Poetry (with special affection for [the 'Objectivists'](https://theobjectivists.org/)), music, libraries, pickup soccer, & vegetarian food. Empiricism, generosity, compassion for all sentient beings.
