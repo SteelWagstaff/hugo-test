@@ -2,7 +2,7 @@
 title: About
 date: 2021-01-22T00:00:00-08:00
 description: About Steel Wagstaff
-author_image: images/about/author.jpg
+author_image: images/steel_wagstaff.jpg
 author_signature: images/about/signature.png
 
 ---
